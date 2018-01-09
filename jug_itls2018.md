@@ -1,0 +1,9 @@
+Die Java User Group Thüringen: Vernetzung der Know-How-Träger im ganzen Bundesland
+
+Gestartet Anfang 2017 mit einer Idee und 4 Köpfen hat sich die Java User Group Thüringen (jugth.de) bereits als feste Größe für den intensiven fachlichen Austausch der IT-Spezialisten in Thüringen entwickelt. Auf unserer Plattform (meetup.com/jugthde/) wird bald die 200 Mitglieder-Marke überschritten - und das nicht ohne Grund: 
+
+Wir bringen internationale Referenten zusammen mit IT-Experten in ganz Thüringen. Statt teurer Anreise- und Buchungskosten für Konferenzen kommen die Top-Referenten kostenlos zu uns - was wir auch unserer Organisation im deutschen iJUG (ijug.eu/) und der Vernetzung in alle User-Groups in Deutschland verdanken. Dass wir unsere Abende dabei immer in schöner Atmosphäre und gut bewirtet verbringen, verdanken wir dabei den Thüringer IT-Unternehmen, die wechselseitig die Events ausrichten. Denn wir selbst arbeiten vollständig non-profit und stehen für alle IT-Unternehmen offen.
+
+Zusätzlich bringen wir Industrie und Wissenschaft zusammen. Unsere (ehrenamtliche) Organisationsarbeit in den Standorten Erfurt, Weimar, Jena sowie jetzt neu auch in Ilmenau und Eisenach teilen wir uns mit Schirmherren aus den IT-Universitäten und -Hochschulen des Freistaates. Dadurch ist auch das Interesse der Studenten an unseren Events sehr groß.
+
+Damit wir auch Sie und ihr Unternehmen von der Java User Group begeistern können, möchten wir kurz ein paar Highlights bisheriger Events vorstellen und auf kommende Veranstaltungen aufmerksam machen. Wir freuen uns auf den regen Austausch mit Ihnen & sind gespannt auf ihre Ideen für kommende Events.
