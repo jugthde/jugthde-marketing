@@ -28,15 +28,15 @@ Mit klugen Ideen und einer kleinen Portion Mut wagen immer mehr deutsche Unterne
 - Vorteile für die Thüringer IT-Unternehmen
 - Wie kann man sich in der JUG engagieren?
 
-#### 16:30 - 17:00 [Mini-JUG Eventspecial @ ITLS2018] "Aktuelle Trends und disruptive Technologien im IT & E-Commerce Sektor - Einfach erklärt und unterhaltsam eingeschätzt" (Benjamin Nothdurft, Bastian Klein)
+#### 16:30 - 17:15 [Mini-JUG Eventspecial @ ITLS2018] "Aktuelle Trends und disruptive Technologien im IT & E-Commerce Sektor - Einfach erklärt und unterhaltsam eingeschätzt" (Benjamin Nothdurft, Bastian Klein)
 
-"In Zeiten in denen das Buzzword-Bingo in der IT-Branche gerade bei neuen Trends nicht halt macht und die Digitalisierung in allen Bereichen erbarmungslos zuschlägt. Stellt sich dem Anwender und Kunden oft die Frage nach dem “Warum? Wieso? Weshalb?" oder "Nicht schon wieder etwas Neues?”. Gerade für Manager stellt sich hierbei die Herausforderung diese dem Nutzer in geeigneter Form näherzubringen, sodass am Ende die entsprechenden Zuwächse für das eigene Unternehmen auch mit positvem Kundenfeeback im Rücken erzielt werden können.
+"In Zeiten in denen das Buzzword-Bingo in der IT-Branche gerade bei neuen Trends nicht halt macht und die Digitalisierung in allen Bereichen erbarmungslos zuschlägt. Stellt sich dem Anwender oft die Frage nach dem “Warum? Wieso? Weshalb?" oder "Nicht schon wieder etwas Neues?”. Gerade für Manager stellt sich hierbei die Herausforderung diese dem Mitarbeiter bzw. dem Kunden in geeigneter Form näherzubringen, sodass am Ende die entsprechenden Zuwächse für das eigene Unternehmen auch mit positivem Feedback im Rücken erzielt werden können.
 
-In diesem kurzen Talk werden mit Vergleichen zu banalen Alltagssituationen und Gegenständen bildlich die Vor- und Nachteile dieser häufig neuen Wassern in alten Kelchen aufgezeigt. Es soll damit prägnant der fachliche Zugang geschaffen werden. Die vielfältigen Wirkungspotentiale jeder Technologie werden in den einzelnen Aspekten, also für die eigenen Businessproesse, die interne IT-Infrastruktur oder das verkaufsfertige Endprodukt beleuchtet.
+In diesem Talk werden mit Vergleichen zu banalen Alltagssituationen und Gegenständen bildlich die Vor- und Nachteile dieser häufig neuen Wassern in alten Kelchen aufgezeigt. Es soll damit kurz & prägnant der fachliche Zugang geschaffen werden. Die vielfältigen Wirkungspotentiale jeder Technologie werden in den einzelnen Aspekten, also für die eigenen Businessproesse, die interne IT-Infrastruktur oder das verkaufsfertige Endprodukt beleuchtet.
 
 Es werden u.a. folgende Themen behandelt: IoT, Industrie 4.0, Microservices, Serverless, Docker, Container, Voice Recognition, RFID, Cognitive Programming, Virtual Reality, Smart Shops und das Leben im Morgen, der Zukunft nach dem Heute."
 
-#### 17:00 - 17:30 [Networking] Thüringer IT-Unternehmen treffen die JUG Thüringen
+#### 17:15 - 17:30 [Networking] Thüringer IT-Unternehmen treffen die JUG Thüringen
 - Wie organsiert man ein JUG-Meetup?
 - Ansprechpartner kennenlernen aus Akademie & Industrie
 
