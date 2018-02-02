@@ -23,16 +23,18 @@ Mit klugen Ideen und einer kleinen Portion Mut wagen immer mehr deutsche Unterne
 - Wie organsiert man ein JUG-Meetup?
 - Ansprechpartner kennenlernen aus Akademie & Industrie
 
-#### 16:00 - 16:30 [Vortrag] "Die Java User Group Thüringen: Vernetzung der Know-How-Träger im ganzen Bundesland" (Jonas Hecht, Prof. Dr. Norbert Siegmund)
+#### 16:00 - 16:30 [Vortrag] "Die Java User Group Thüringen: Vernetzung der Know-How-Träger im ganzen Bundesland" (Carsten Zeitz, Prof. Dr. Steffen Avemarg)
 - JUG Thüringen - Was ist das?
 - Vorteile für die Thüringer IT-Unternehmen
 - Wie kann man sich in der JUG engagieren?
 
-#### 16:30 - 17:00 [Mini-JUG Eventspecial @ ITLS2018] "Aktuelle Trends und disruptive Technologien im IT & E-Commerce Sektor - Einfach erklärt und unterhaltsam eingeschätzt" (Benjamin Nothdurft)
+#### 16:30 - 17:00 [Mini-JUG Eventspecial @ ITLS2018] "Aktuelle Trends und disruptive Technologien im IT & E-Commerce Sektor - Einfach erklärt und unterhaltsam eingeschätzt" (Benjamin Nothdurft, Bastian Klein)
 
-"In Zeiten in denen das Buzzword Bingo in der IT-Branche gerade bei neuen Trends nicht halt macht und die Digitalisierung in allen Bereichen erbarmungslos zuschlägt. Stellt sich dem Anwender und Kunden oft die Frage nach dem “Warum? Wieso? Weshalb?" oder "Nicht schon wieder etwas Neues?”.
+"In Zeiten in denen das Buzzword-Bingo in der IT-Branche gerade bei neuen Trends nicht halt macht und die Digitalisierung in allen Bereichen erbarmungslos zuschlägt. Stellt sich dem Anwender und Kunden oft die Frage nach dem “Warum? Wieso? Weshalb?" oder "Nicht schon wieder etwas Neues?”. Gerade für Manager stellt sich hierbei die Herausforderung diese dem Nutzer in geeigneter Form näherzubringen, sodass am Ende die entsprechenden Zuwächse für das eigene Unternehmen auch mit positvem Kundenfeeback im Rücken erzielt werden können.
 
-In diesem kurzen Talk möchte ich auf humoristische Art und Weise mit Vergleichen zu banalen Alltagssituationen und Gegenständen bildlich die Vor- und Nachteile dieser häufig neuen Wassern in alten Kelchen aufzeigen. Es werden u.a. folgende Themen behandelt: IoT, Industrie 4.0, Microservices, Serverless, Docker, Container, Voice Recognition, RFID, Cognitive Programming, Virtual Reality, Smart Shops und das Leben im Morgen, der Zukunft nach dem Heute."
+In diesem kurzen Talk werden mit Vergleichen zu banalen Alltagssituationen und Gegenständen bildlich die Vor- und Nachteile dieser häufig neuen Wassern in alten Kelchen aufgezeigt. Es soll damit prägnant der fachliche Zugang geschaffen werden. Die vielfältigen Wirkungspotentiale jeder Technologie werden in den einzelnen Aspekten, also für die eigenen Businessproesse, die interne IT-Infrastruktur oder das verkaufsfertige Endprodukt beleuchtet.
+
+Es werden u.a. folgende Themen behandelt: IoT, Industrie 4.0, Microservices, Serverless, Docker, Container, Voice Recognition, RFID, Cognitive Programming, Virtual Reality, Smart Shops und das Leben im Morgen, der Zukunft nach dem Heute."
 
 #### 17:00 - 17:30 [Networking] Thüringer IT-Unternehmen treffen die JUG Thüringen
 - Wie organsiert man ein JUG-Meetup?
@@ -41,11 +43,12 @@ In diesem kurzen Talk möchte ich auf humoristische Art und Weise mit Vergleiche
 ---
 
 # Von 14:00 bis 17:30 freut sich das JUG-Thüringen Organisationsteam auf ihr Kommen:
-* __Prof. Dr. Steffen Avemarg__, Professur Praktische Informatik/Mobile Computing FH Erfurt & JUG-Schirmherr Erfurt
-* __Benjamin Nothdurft__, Software Engineer for Java Enterprise Microservices in E-Commerce ePages & JUG-Standortleiter Jena 
-* __Carsten Zeitz__, Software Engineer Rewe Digital & JUG-Standortleiter Ilmenau
-* __Prof. Dr. Norbert Siegmund__, Professur für Intelligente Softwaresysteme Bauhaus-Universität Weimar & JUG-Schirmherr Weimar
-* __Jonas Hecht__, Senior IT-Consultant Enterprise Software Architecture & Delivery codecentric AG & JUG-Standortleiter Weimar
 
+* __Prof. Dr. Steffen Avemarg__, Professur Praktische Informatik/Mobile Computing, FH Erfurt & JUG-Schirmherr Erfurt
+* __Benjamin Nothdurft__, Software Engineer for Java Enterprise Microservices in E-Commerce, ePages GmbH & JUG-Standortleiter Jena 
+* __Carsten Zeitz__, Software Engineer Rewe Digital & JUG-Standortleiter Ilmenau
+* __Prof. Dr. Norbert Siegmund__, Professur für Intelligente Softwaresysteme, Bauhaus-Universität Weimar & JUG-Schirmherr Weimar
+* __Jonas Hecht__, Senior IT-Consultant Enterprise Software Architecture & Delivery, codecentric AG & JUG-Standortleiter Weimar
+* __Bastian Klein__, Senior Analyst, Accenture Technologie Solutions GmbH, JUG-Orga Jena
 
 
