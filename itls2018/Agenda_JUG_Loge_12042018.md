@@ -28,7 +28,7 @@ Mit klugen Ideen und einer kleinen Portion Mut wagen immer mehr deutsche Unterne
 - Vorteile für die Thüringer IT-Unternehmen
 - Wie kann man sich in der JUG engagieren?
 
-#### 16:30 - 17:15 [Mini-JUG Eventspecial @ ITLS2018] "Ein Quantum Glück im IT-Sektor: Chancen und Risikien beim Einsatz disruptiver Technologien als Innovationsstrategie im eigenen Unternehmen" (Benjamin Nothdurft, Bastian Klein)
+#### 16:30 - 17:15 [Mini-JUG Eventspecial @ ITLS2018] "Ein Quantum Glück im IT-Sektor: Chancen, Risikien und Erfolgsfaktoren beim Einsatz disruptiver Technologien als Innovationsstrategie im eigenen Unternehmen" (Benjamin Nothdurft, Bastian Klein)
 
 "In Zeiten in denen das Buzzword-Bingo in der IT-Branche gerade bei neuen Trends nicht halt macht und die Digitalisierung in allen Bereichen erbarmungslos zuschlägt. Stellt sich dem Anwender oft die Frage nach dem “Warum? Wieso? Weshalb?" oder "Nicht schon wieder etwas Neues?”. Gerade für Manager stellt sich hierbei die Herausforderung diese dem Mitarbeiter bzw. dem Kunden in geeigneter Form näherzubringen, sodass am Ende die entsprechenden Zuwächse für das eigene Unternehmen auch mit positivem Feedback im Rücken erzielt werden können.
 
