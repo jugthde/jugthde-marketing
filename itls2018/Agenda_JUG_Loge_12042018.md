@@ -13,7 +13,7 @@ Zusätzlich wird es zwei "Mini-JUG Events" direkt auf der ITLS geben: U.a. konnt
 - Wie organsiert man ein JUG-Meetup?
 - Ansprechpartner kennenlernen aus Akademie & Industrie 
 
-#### 15:00 - 15:45 [Mini-JUG Eventspecial @ ITLS2018] "Cloud ist keine Strategie - Innovationskultur als Basis erfolgreicher Digitalisierung"
+#### 15:00 - 15:45 [Mini-JUG Eventspecial @ ITLS2018] "Cloud ist keine Strategie - Innovationskultur als Basis erfolgreicher Digitalisierung" (Dennis Traub)
 
 "Der Schritt in die Cloud ist für sich alleine noch keine Strategie. Viel mehr müssen Unternehmen die Cloud als mächtiges Werkzeug begreifen, das bei wohlüberlegtem Einsatz dabei helfen kann, schnell und kostengünstig mit neuen Geschäftsideen zu experimentieren.
 
