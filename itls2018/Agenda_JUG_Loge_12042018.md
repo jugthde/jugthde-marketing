@@ -32,7 +32,7 @@ Mit klugen Ideen und einer kleinen Portion Mut wagen immer mehr deutsche Unterne
 
 "In Zeiten in denen das Buzzword-Bingo in der IT-Branche gerade bei neuen Trends nicht halt macht und die Digitalisierung in allen Bereichen erbarmungslos zuschlägt. Stellt sich dem Anwender oft die Frage nach dem “Warum? Wieso? Weshalb?" oder "Nicht schon wieder etwas Neues?”. Gerade für Manager stellt sich hierbei die Herausforderung diese dem Mitarbeiter bzw. dem Kunden in geeigneter Form näherzubringen, sodass am Ende die entsprechenden Zuwächse für das eigene Unternehmen auch mit positivem Feedback im Rücken erzielt werden können.
 
-In diesem Talk werden mit Vergleichen zu banalen Alltagssituationen und Gegenständen bildlich die Vor- und Nachteile dieser häufig neuen Wassern in alten Kelchen aufgezeigt. Es soll damit kurz & prägnant der fachliche Zugang geschaffen werden. Die vielfältigen Wirkungspotentiale jeder Technologie werden in den einzelnen Aspekten, also für die eigenen Businessproesse, die interne IT-Infrastruktur oder das verkaufsfertige Endprodukt beleuchtet.
+In diesem Talk werden mit Vergleichen zu banalen Alltagssituationen und Gegenständen bildlich die Vor- und Nachteile dieser häufig neuen Wassern in alten Kelchen aufgezeigt. Es soll damit kurz & prägnant der fachliche Zugang geschaffen werden. Die vielfältigen Wirkungspotentiale jeder Technologie werden in den einzelnen Aspekten, also für die eigenen Businessprozesse, die interne IT-Infrastruktur oder das verkaufsfertige Endprodukt beleuchtet.
 
 Es werden u.a. folgende Themen behandelt: IoT, Industrie 4.0, Microservices, Serverless, Docker, Container, Voice Recognition, RFID, Cognitive Programming, Virtual Reality, Smart Shops und das Leben im Morgen, der Zukunft nach dem Heute."
 
