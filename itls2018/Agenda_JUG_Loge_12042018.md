@@ -49,6 +49,6 @@ Es werden u.a. folgende Themen behandelt: IoT, Industrie 4.0, Microservices, Ser
 * __Carsten Zeitz__, Software Engineer Rewe Digital & JUG-Standortleiter Ilmenau
 * __Prof. Dr. Norbert Siegmund__, Professur für Intelligente Softwaresysteme, Bauhaus-Universität Weimar & JUG-Schirmherr Weimar
 * __Jonas Hecht__, Senior IT-Consultant Enterprise Software Architecture & Delivery, codecentric AG & JUG-Standortleiter Weimar
-* __Bastian Klein__, Senior Analyst, Accenture Technologie Solutions GmbH, JUG-Orga Jena
+* __Bastian Klein__, Senior IT Analyst, Accenture Technologie Solutions GmbH, JUG-Orga Jena
 
 
